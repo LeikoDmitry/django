@@ -416,3 +416,9 @@ Miscellaneous
 
 * The ``map_height`` and ``map_width`` attributes of ``BaseGeometryWidget`` are
   deprecated, use CSS to size map widgets instead.
+
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
