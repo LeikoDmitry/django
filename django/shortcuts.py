@@ -156,4 +156,4 @@ def resolve_url(to, *args, **kwargs):
 
 
 def make_toast():
-    return 'toast'
+    return "toast"
